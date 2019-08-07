@@ -9,8 +9,7 @@ body{
 .examples {
   text-align: center;
   width: 100%;
-  background-color: #7AA2A2;
-  opacity: .5;
+
 }
 
 .column{
@@ -18,6 +17,24 @@ body{
   display: inline-block;
   align-content: center;
 }
+
+.before{
+  background-color: #7AA2A2;
+
+
+}
+
+.during{
+background-color: #53c68c;
+
+}
+
+.after{
+  background-color: #7AA2A2;
+
+
+}
+
 
 .column img{
   width: 200px;
